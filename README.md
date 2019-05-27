@@ -122,6 +122,7 @@ Docker is great for quickly trying out software, but it has its drawbacks too. I
 ## Deployment on Scalingo
 
 [![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/tootsuite/mastodon#master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftcitworld%2Fmastodon.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftcitworld%2Fmastodon?ref=badge_shield)
 
 [You can view a guide for deployment on Scalingo here.](docs/Running-Mastodon/Scalingo-guide.md)
 
@@ -149,3 +150,7 @@ You can open issues for bugs you've found or features you think are missing. You
 - The error page image courtesy of [Dopatwo](https://www.youtube.com/user/dopatwo)
 
 ![Mastodon error image](https://mastodon.social/oops.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftcitworld%2Fmastodon.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftcitworld%2Fmastodon?ref=badge_large)
